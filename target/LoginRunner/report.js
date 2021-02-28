@@ -36,7 +36,7 @@ formatter.step({
 formatter.match({
   "location": "ExcelSteps.iValidateTheFollowingRowExistsInOf(String,String,String\u003e)"
 });
-formatter.write("2021-02-28 11:07:26 PASS: The expected data was found in row: 12");
+formatter.write("2021-02-28 12:41:37 PASS: The expected data was found in row: 12");
 formatter.result({
   "status": "passed"
 });
